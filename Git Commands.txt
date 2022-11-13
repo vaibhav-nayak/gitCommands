@@ -7,3 +7,5 @@
 7. git add. : will add all files and folder in stagging area(Area of tracking)
 8. git commit -m "message here": will apply and move changes to local repository and unique hash is generated corresponding to each commit
 9. git log : will show all the commit 
+10. git checkout <hash_code> : will shift to respective commit state 
+11. 
