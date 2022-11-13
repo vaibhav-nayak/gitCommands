@@ -1,0 +1,7 @@
+1. what is git :  git is open source version control tool , i.e to track , switch between various version of software 
+2. git --version: To Check Version of git
+3. git init  : to initialize git repository(folder)
+4. git config --global user.name "user_name" : to initialize user profile
+5. git config --global user.email "email_nam": to initialize user email
+6. git status: to check current status of git repo
+7. 
