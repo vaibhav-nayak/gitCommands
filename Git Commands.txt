@@ -4,4 +4,6 @@
 4. git config --global user.name "user_name" : to initialize user profile
 5. git config --global user.email "email_nam": to initialize user email
 6. git status: to check current status of git repo
-7. 
+7. git add. : will add all files and folder in stagging area(Area of tracking)
+8. git commit -m "message here": will apply and move changes to local repository and unique hash is generated corresponding to each commit
+9. git log : will show all the commit 
